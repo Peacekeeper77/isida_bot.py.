@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+isida_data/
+.env
+.DS_Store
